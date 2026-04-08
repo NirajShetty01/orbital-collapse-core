@@ -1,2 +1,2 @@
 def queue_command():
-    return "Command queued"
+    return ("Command queued")
